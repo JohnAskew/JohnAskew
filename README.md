@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ---
 
-# 🔹 README Template for `github.com/JohnAskew`  
-*(DB Solution samples across platforms and languages)*
+# 🔹 README.md   
+*(Begins with DB Solution samples across platforms and languages and concludes with IOT* content )*.
 
 ## 🧩 Overview
-This repository showcases my work with **Oracle, DB2 UDB, and Exasol** databases.  
+This repository showcases work samples with **Oracle, DB2 UDB, and Exasol** databases.  
 It demonstrates **enterprise-level administration, performance tuning, and automation techniques** that improve reliability, scalability, and query efficiency in mission-critical systems.
 
 As a **Senior Database Administrator and Python Developer**, I built these solutions to support high-availability environments across analytics, finance, and logistics workloads — maintaining uptime above **99.95%** and cutting manual intervention time by more than **60%** through automation.
@@ -63,21 +63,27 @@ As a **Senior Database Administrator and Python Developer**, I built these solut
 #### Start with Titanic solution for general documentation and coding concepts:
 ```bash
 git clone https://github.com/JohnAskew/titanic.git
-
+```
+```bash
 Here is the Backup and Restore samples repo:
 git clone https://github.com/JohnAskew/Samples_Bkup_Restore
-
-Clone example for a particular platorm, such as EXASOL:  
+```
+```markdown
+Clone example for a particular platorm, such as EXASOL:
+```
+```bash  
 git clone https://github.com/JohnAskew/IGAPA3,git
 git clone https://github.com/JohnAskew/EXASOL.git
 git clone https://github.com/JohnAskew/exasol-udf.git
-
+```
+```markdown
 (IoT / Edge Computing + Innovation Projects):
 📌 Overview
-This repository is for presentations of working IoT Proof of Concepts:
+These repositories are for code and presentations of working IoT Proof of Concepts:
 
 🚀 Getting Started
-Clone the repo:
-git clone https://github.com/JohnAskew/Heatmap.git
-You know what's next...
+
+Clone the repos:
+git clone https://github.com/JohnAskew/Heatmap.git           #IOT coding
+git clone https://github.com/JohnAskew/EDGE_compute_POC.git  #PowerPoint of running Hadoop on an ARM computer.
 
