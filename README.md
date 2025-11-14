@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ---
 
 # 🔹 README.md   
-*(Begins with DB Solution samples across platforms and languages and concludes with IOT* content )*.
+*(Begins with DB Solution samples across platforms and languages and concludes with IOT* content)*.
 
 ## 🧩 Overview
 This repository showcases work samples with **Oracle, DB2 UDB, and Exasol** databases.  
@@ -41,10 +41,10 @@ As a **Senior Database Administrator and Python Developer**, I built these solut
 | Category | Tools / Technologies |
 |-----------|----------------------|
 | **Databases** | Exasol, Oracle, SQL Server, DB2 |
-| **Languages** | Python, SQL, Bash, PL/SQL |
-| **Automation** | Cron, Bash scripts, ExaLoader |
-| **Monitoring** | Grafana, JSON logging, REST APIs |
-| **Infrastructure** | Linux, AIX, Exasol Cluster Nodes |
+| **Languages** | Python, SQL, Bash, PL/SQL, JCL, COBOL |
+| **Automation** | Apache NIFI, Cron, Bash scripts, ExaLoader |
+| **Monitoring** | Solution Automation, JSON, Logs, REST APIs |
+| **Infrastructure** | Linux, AIX, OS/390, z\OS, Exasol |
 
 ---
 
