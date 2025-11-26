@@ -1,4 +1,4 @@
-## A Texas Howdy and Welcome 👋
+## Welcome! 👋
 
 <!--
 **JohnAskew/JohnAskew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ---
 
 # 🔹 README.md   
-*(Begins with DB Solution samples across platforms and languages and concludes with IOT* content)*.
 
 ## 🧩 Overview
 This repository showcases work samples with **Oracle, DB2 UDB, and Exasol** databases.  
