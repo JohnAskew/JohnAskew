@@ -1,5 +1,5 @@
 ## Welcome! 👋
-
+😄 Pronouns: He/Him, but..Hire the best person for the job, and call them by their name. 
 <!--
 **JohnAskew/JohnAskew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
